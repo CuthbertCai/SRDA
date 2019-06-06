@@ -1,5 +1,5 @@
 ## Learning Smooth Representation for Unsupervised Domain Adaptation  
-This is the implementation of SRDA for VisDA 2017 in Pytorch.  
+This is the implementation of [SRDA][4] for VisDA 2017 in Pytorch.  
 
 ### Requirements
 > `pip install -r requirements.txt`
@@ -22,3 +22,4 @@ This is the implementation of SRDA for VisDA 2017 in Pytorch.
 [1]:"https://github.com/VisionLearningGroup/taskcv-2017-public"
 [2]:"https//github.com/mil-tokyo/MCD_DA"
 [3]:"https://github.com/BorealisAI/advertorch"
+[4]:"https://arxiv.org/abs/1905.10748"
