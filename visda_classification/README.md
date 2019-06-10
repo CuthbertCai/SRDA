@@ -12,7 +12,7 @@ This is the implementation of [SRDA][4] for VisDA 2017 in Pytorch.
 > 2. To train SRDA (vat), `python res_train_main.py --save_model --attack vat --train_path TRAIN_PATH --val_path VAL_PATH`.
 > 3. To train SRDA (ran), `python random_noise_exp.py --save_model --train_path TRAIN_PATH --val_path VAL_PATH`.
 > `TRAIN_PATH` and `VAL_PATH` refer to the real path of your dataset. If you want to tune other hyper-parameters,  
-> see args in `res_train_main.py` and 'random_noise_exp.py'.
+> see args in `res_train_main.py` and `random_noise_exp.py`.
 
 ### Reference
 > We refer to some other repos.
