@@ -19,7 +19,7 @@ This is the implementation of [SRDA][4] for VisDA 2017 in Pytorch.
 > 1. [MCD_DA][2]
 > 2. [advertorch][3]
 
-[1]:"https://github.com/VisionLearningGroup/taskcv-2017-public"
-[2]:"https//github.com/mil-tokyo/MCD_DA"
-[3]:"https://github.com/BorealisAI/advertorch"
-[4]:"https://arxiv.org/abs/1905.10748"
+[1]:https://github.com/VisionLearningGroup/taskcv-2017-public
+[2]:https//github.com/mil-tokyo/MCD_DA
+[3]:https://github.com/BorealisAI/advertorch
+[4]:https://arxiv.org/abs/1905.10748
