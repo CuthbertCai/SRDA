@@ -1,5 +1,6 @@
 ## Learning Smooth Representation for Unsupervised Domain Adaptation  
-This is the implementation of [SRDA][4] for VisDA 2017 in Pytorch.  
+This is the implementation of [Learning Smooth Representation for Unsupervised Domain Adaptation][4] for VisDA 2017 in Pytorch. 
+The paper is accepted by IEEE Transactions on Neural Networks and Learning Systems.  
 
 ### Requirements
 > `pip install -r requirements.txt`
